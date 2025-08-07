@@ -19,4 +19,3 @@ This project integrates leading AI models including **ChatGPT**, **Gemini**, **D
 
 ---
 
-This project is designed for **performance, usability, and extensibility**—making it ideal for developers exploring AI model integrations and advanced UI features in modern web apps.
