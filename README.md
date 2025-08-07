@@ -1,12 +1,22 @@
-# React + Vite
+## 🔮 AI Chatbot – Multi-Model Conversational Interface
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An intelligent, multi-model AI chat interface with a clean and responsive UI.  
+This project integrates leading AI models including **ChatGPT**, **Gemini**, **DeepSeek**, **Claude**, and **Grok** for seamless conversational experiences.
 
-Currently, two official plugins are available:
+### ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎯 **Real-time message streaming** with component-level state handling
+- 💡 **Dynamic support** for:
+  - Markdown formatting
+  - Dark mode
+  - Auto-resizing input fields
+- 📜 **Auto-scrolling** chat view for uninterrupted conversations
+- 💬 **Fully interactive chat layout** built with responsive design principles
+- 📁 **Sidebar navigation** to:
+  - View all conversations
+  - Switch between chats
+  - Start new conversations
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project is designed for **performance, usability, and extensibility**—making it ideal for developers exploring AI model integrations and advanced UI features in modern web apps.
